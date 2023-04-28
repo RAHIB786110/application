@@ -59,4 +59,3 @@ app.post("/adddetails",(req,res)=>{
 
 
 app.listen(7777);
-console.log(`Server Started : http://127.0.0.1:7777`);
